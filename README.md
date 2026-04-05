@@ -9,7 +9,7 @@ Designed as a portfolio project, it demonstrates real-world data engineering pra
 
 ## 👨‍💻 Author
 
-**Tarek Radi**  
+**Tarek Mahmoud Abdelrady**  
 Data Engineering Enthusiast | Azure & SQL Developer  
 
 ---
