@@ -38,6 +38,14 @@ This project includes:
 3. **Data Modeling**: Creating fact and dimension tables optimized for analytics.
 4. **Analytics & Reporting**: Writing SQL queries to generate insights.
 
+
+🎯 This project demonstrates skills in:
+- SQL Development
+- Data Engineering
+- ETL Pipelines
+- Data Modeling (Star Schema)
+- Data Analytics
+
 ## 🔗 Data Integration & Modeling
 
 This diagram illustrates how data from multiple sources (ERP & CRM) is integrated and transformed into a unified analytical model.
@@ -47,14 +55,6 @@ It highlights the relationships between sales, customers, and products before bu
 <p align="center">
   <img src="docs/data_model.png" width="700"/>
 </p>
-
-
-🎯 This project demonstrates skills in:
-- SQL Development
-- Data Engineering
-- ETL Pipelines
-- Data Modeling (Star Schema)
-- Data Analytics
 
 ---
 
