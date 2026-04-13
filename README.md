@@ -13,15 +13,6 @@ Designed as a portfolio project, it demonstrates real-world data engineering pra
 Data Engineering Enthusiast | Azure & SQL Developer  
 
 ---
-## 🔗 Data Integration & Modeling
-
-This diagram illustrates how data from multiple sources (ERP & CRM) is integrated and transformed into a unified analytical model.
-
-It highlights the relationships between sales, customers, and products before building the final star schema.
-
-<p align="center">
-  <img src="docs/data_model.png" width="700"/>
-</p>
 
 
 ## 🏗️ Data Architecture
@@ -46,6 +37,17 @@ This project includes:
 2. **ETL Pipelines**: Extracting, transforming, and loading data into structured layers.
 3. **Data Modeling**: Creating fact and dimension tables optimized for analytics.
 4. **Analytics & Reporting**: Writing SQL queries to generate insights.
+
+## 🔗 Data Integration & Modeling
+
+This diagram illustrates how data from multiple sources (ERP & CRM) is integrated and transformed into a unified analytical model.
+
+It highlights the relationships between sales, customers, and products before building the final star schema.
+
+<p align="center">
+  <img src="docs/data_model.png" width="700"/>
+</p>
+
 
 🎯 This project demonstrates skills in:
 - SQL Development
