@@ -13,18 +13,14 @@ Designed as a portfolio project, it demonstrates real-world data engineering pra
 Data Engineering Enthusiast | Azure & SQL Developer  
 
 ---
-## ⭐ Data Model (Star Schema)
+## 🔗 Data Integration & Modeling
 
-The Gold Layer is designed using a Star Schema to optimize analytical queries and reporting.
+This diagram illustrates how data from multiple sources (ERP & CRM) is integrated and transformed into a unified analytical model.
 
-It consists of:
-- Fact Table: sales
-- Dimension Tables: customers, products, etc.
+It highlights the relationships between sales, customers, and products before building the final star schema.
 
 <p align="center">
-  <img src="docs/data_architecture.png" width="700"/>
-  <br>
-  <em>Figure 1: Data Warehouse Architecture (Medallion)</em>
+  <img src="docs/data_model.png" width="700"/>
 </p>
 
 
