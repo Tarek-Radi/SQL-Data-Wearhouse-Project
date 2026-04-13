@@ -13,6 +13,20 @@ Designed as a portfolio project, it demonstrates real-world data engineering pra
 Data Engineering Enthusiast | Azure & SQL Developer  
 
 ---
+## ⭐ Data Model (Star Schema)
+
+The Gold Layer is designed using a Star Schema to optimize analytical queries and reporting.
+
+It consists of:
+- Fact Table: sales
+- Dimension Tables: customers, products, etc.
+
+<p align="center">
+  <img src="docs/data_architecture.png" width="700"/>
+  <br>
+  <em>Figure 1: Data Warehouse Architecture (Medallion)</em>
+</p>
+
 
 ## 🏗️ Data Architecture
 
@@ -21,6 +35,10 @@ This project follows the **Medallion Architecture** approach:
 - **Bronze Layer**: Raw data ingestion from source systems (CSV files) into SQL Server.
 - **Silver Layer**: Data cleaning, transformation, and standardization.
 - **Gold Layer**: Business-ready data modeled using a **Star Schema** for analytics.
+- 
+<p align="center">
+  <img src="docs/data_architecture.png" width="700"/>
+</p>
 
 ---
 
